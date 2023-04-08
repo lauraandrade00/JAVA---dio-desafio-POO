@@ -12,7 +12,7 @@ public class Main {
 
         Curso curso2 = new Curso();
         curso2.setTitulo("curso js");
-        curso2.setDescricao("descricao curso js");
+        curso2.setDescricao("descricao do curso js");
         curso2.setCargaHoraria(4);
 
         Mentoria mentoria = new Mentoria();
